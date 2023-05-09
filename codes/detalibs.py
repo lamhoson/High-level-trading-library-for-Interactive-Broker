@@ -1433,7 +1433,7 @@ def dataFrIb2Csv(ses, startDay, endDay, contract, MAX_FAIL=45):
     return
 
 def reRegisterEmail():
-    yagmail.register('detadaytrade01@gmail.com', 'DETAfeb2019hz')
+    yagmail.register('detadaytrade01@gmail.com', 'xxxxx') #9may2023
     yag = yagmail.SMTP('detadaytrade01@gmail.com')
 
     # # file=getCwdPath().split('2-sourceCodes')[0]+'\\detalibs\\gmail.json' #location of the json file
