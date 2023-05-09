@@ -150,6 +150,7 @@ ver17.1 21dec2021 - added 'if dt >= startDay:' to fix a bug.
 ver17.2 3jan2022 - used timeIndexSource = TIMEINDEX to replace the timeIndex.xlsx #3jan2022
                     creatQliTradeContracts() creat WAR contract by 6 parameters.
 ver17.3 8jan2022 - Removed to used timeIndexSource = TIMEINDEX to replace the timeIndex.xlsx #6jan2022
+ver17.4 8May2023 - special changes
 
 """
 import tensorflow as tf
